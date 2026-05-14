@@ -274,13 +274,12 @@ High-level API for Deep Learning.
 # Best Resources
 
 ## Courses
-- Andrew Ng Machine Learning
+- CampusX
 - DeepLearning.AI
 
 ## Platforms
 - Kaggle
-- freeCodeCamp
-- Coursera
+- CampusX
 
 ## Practice
 - Build Projects
