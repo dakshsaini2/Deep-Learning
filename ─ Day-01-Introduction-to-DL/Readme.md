@@ -132,7 +132,6 @@ Step-by-step process:
 ```math
 y = wx + b
 ```
-
 Where:
 - `x` = input
 - `w` = weight
