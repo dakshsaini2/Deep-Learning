@@ -20,7 +20,6 @@ Deep Learning can automatically learn important features from raw data without m
 | Example: Robotics | Spam Detection | Face Recognition |
 
 ---
-
 # What is Machine Learning?
 
 Machine Learning is a branch of AI where machines learn from data and improve their performance without being explicitly programmed.
