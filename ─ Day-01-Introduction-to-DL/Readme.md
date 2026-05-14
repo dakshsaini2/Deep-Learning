@@ -294,7 +294,6 @@ High-level API for Deep Learning.
 ✅ GPUs are important in Deep Learning  
 ✅ Activation functions help networks learn complex patterns  
 ✅ Deep Learning powers modern AI applications
-
 ---
 
 # Interview Questions
