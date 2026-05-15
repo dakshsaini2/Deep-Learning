@@ -17,7 +17,7 @@ This chapter focuses on:
 ---
 
 # What is the Perceptron Trick?
-![Perceptron Diagram](Atificial-Neural-Networks.webp)
+![ANN Diagram](Artificial-Neural-Networks.webp)
 The Perceptron Trick is the process of adjusting weights and bias whenever the model makes incorrect predictions.
 
 Goal:
