@@ -1,6 +1,6 @@
 # Day 6 - Problems with Perceptron
 
-## Introduction
+## Introduction.....
 
 The Perceptron was one of the earliest neural network models and became the foundation of modern Deep Learning.
 
