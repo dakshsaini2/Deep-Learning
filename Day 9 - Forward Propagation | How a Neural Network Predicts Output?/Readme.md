@@ -505,6 +505,8 @@ Linear transformation and activation computations occur layer by layer.
 ✅ Connected forward propagation with AI systems
 
 ---
+#Daksh saini
+Notes with the help of chatgpt
 
 # Mini Summary
 
