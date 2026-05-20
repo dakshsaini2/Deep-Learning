@@ -3,6 +3,7 @@
 ## Introduction
 
 Forward Propagation is one of the most fundamental processes in Deep Learning.
+``
 
 It is the process through which:
 - input data moves through the neural network,
