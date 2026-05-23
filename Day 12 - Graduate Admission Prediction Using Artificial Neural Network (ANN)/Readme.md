@@ -484,7 +484,7 @@ Because ANN training becomes more stable and efficient.
 ✅ Connected Deep Learning with educational analytics
 
 ---
-
+#all_thanks_to_mr_nitish_singh_@campusX
 # Mini Summary
 
 Graduate Admission Prediction using ANN is a real-world regression application where neural networks learn complex relationships between academic features and admission probability. This project demonstrates how Deep Learning can be applied to predictive analytics and educational AI systems.
