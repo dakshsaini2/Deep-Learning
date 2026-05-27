@@ -510,7 +510,7 @@ Because fully connected networks require vector inputs.
 Handwritten digit classification using ANN is one of the most foundational Deep Learning projects. It demonstrates how neural networks learn visual patterns from pixel data to perform multi-class image classification. This project introduced key ideas that later evolved into modern Computer Vision systems.
 
 ---
-
+#DakshSaini
 # Progress
 
 ✅ Completed Day 11 - Handwritten Digit Classification Using ANN
