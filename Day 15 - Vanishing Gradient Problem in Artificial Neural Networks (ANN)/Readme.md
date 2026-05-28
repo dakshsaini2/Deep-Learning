@@ -484,7 +484,7 @@ They improve gradient flow in deep networks.
 The Vanishing Gradient Problem occurs when gradients become extremely small during backpropagation, causing deep neural networks to learn very slowly. Modern Deep Learning overcame this challenge using techniques like ReLU activation, Batch Normalization, and Residual Networks, enabling the development of powerful AI systems used today.
 
 ---
-
+#DEVSAINI
 # Progress
 
 ✅ Completed Day 15 - Vanishing Gradient Problem in ANN
