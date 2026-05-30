@@ -584,7 +584,7 @@ Because it enables neural networks to learn by minimizing prediction error.
 Gradient Descent is the core optimization algorithm in Deep Learning. It minimizes the loss function by updating model parameters in the opposite direction of the gradient. Combined with backpropagation, it enables neural networks to learn patterns from data and power modern AI systems.
 
 ---
-
+#DakshSaini
 # Progress
 
 ✅ Completed Day 17 - Gradient Descent in Neural Networks
