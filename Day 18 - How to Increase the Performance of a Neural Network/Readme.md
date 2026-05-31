@@ -649,7 +649,7 @@ Because it combines momentum and adaptive learning rates.
 ✅ Learned modern optimization techniques
 
 ---
-
+#DakshSaini
 # Mini Summary
 
 Improving neural network performance involves better data, proper preprocessing, optimized architectures, advanced optimizers, regularization techniques, and hyperparameter tuning. Modern AI systems achieve state-of-the-art performance by combining these strategies to improve both accuracy and generalization.
