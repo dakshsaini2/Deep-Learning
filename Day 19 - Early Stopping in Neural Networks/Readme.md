@@ -536,7 +536,7 @@ Yes, and it is commonly done in industry.
 Early Stopping is a powerful regularization technique that prevents neural networks from overfitting by monitoring validation performance and stopping training when improvements cease. It improves generalization, reduces training time, and is widely used in modern Deep Learning systems.
 
 ---
-
+#DakshSaini
 # Progress
 
 ✅ Completed Day 19 - Early Stopping in Neural Networks
