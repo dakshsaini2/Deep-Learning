@@ -557,7 +557,7 @@ Using information from validation/test data during training.
 Data Scaling is a critical preprocessing step in Neural Networks that transforms features into comparable ranges, leading to faster convergence, stable gradients, and better overall performance. Techniques such as Standardization and Normalization are widely used in modern Deep Learning pipelines.
 
 ---
-
+#D
 # Progress
 
 ✅ Completed Day 20 - Data Scaling in Neural Networks
