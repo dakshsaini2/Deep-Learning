@@ -542,7 +542,7 @@ Usually decreases training accuracy slightly but improves validation accuracy.
 ✅ Learned Best Practices
 
 ---
-
+#D
 # Mini Summary
 
 Dropout is a powerful regularization technique that randomly disables neurons during training to prevent overfitting. By forcing the network to learn robust and distributed representations, Dropout improves generalization and has become a standard component in modern Deep Learning architectures.
