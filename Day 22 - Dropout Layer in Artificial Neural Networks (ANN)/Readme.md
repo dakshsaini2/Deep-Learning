@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Artificial Neural Networks (ANNs) are powerful learning systems capable of modeling complex patterns.
+Artificial Neural Networks (ANNs) are powerful learning systems capable of modeling complex  patterns.
 
 However, as ANN architectures become larger, they often suffer from:
 
