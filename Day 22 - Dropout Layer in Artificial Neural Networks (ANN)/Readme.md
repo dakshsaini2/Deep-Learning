@@ -517,7 +517,7 @@ Yes, it is specifically designed to reduce overfitting.
 The Dropout Layer is a powerful regularization technique used in Artificial Neural Networks to reduce overfitting. By randomly disabling neurons during training, Dropout forces the network to learn robust and generalized representations, leading to better performance on unseen data.
 
 ---
-
+#D_notesfrom_ChatGPT
 # Progress
 
 ✅ Completed Day 22 - Dropout Layer in Artificial Neural Networks
