@@ -567,7 +567,7 @@ L2 Regularization and Dropout.
 Regularization is a collection of techniques used to reduce overfitting and improve neural network generalization. Methods such as L1, L2, Dropout, Early Stopping, Data Augmentation, and Batch Normalization help neural networks learn meaningful patterns instead of memorizing training data.
 
 ---
-
+#d
 # Progress
 
 ✅ Completed Day 22 - Regularization in Deep Learning
