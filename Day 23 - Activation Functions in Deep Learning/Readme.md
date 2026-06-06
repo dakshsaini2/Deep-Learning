@@ -601,7 +601,7 @@ GELU.
 Activation Functions are mathematical functions that introduce non-linearity into neural networks, enabling them to learn complex patterns. ReLU dominates modern Deep Learning, while Sigmoid, Softmax, and GELU are used for specific tasks such as classification and Transformer architectures.
 
 ---
-
+#d
 # Progress
 
 ✅ Completed Day 23 - Activation Functions in Deep Learning
