@@ -668,7 +668,7 @@ Vanishing gradients, exploding gradients, and slow convergence.
 Weight Initialization determines how a neural network begins learning. Poor initialization can lead to vanishing gradients, exploding gradients, and slow convergence. Modern Deep Learning primarily relies on Xavier Initialization for Sigmoid/Tanh networks and He Initialization for ReLU-based architectures to ensure stable and efficient training.
 
 ---
-
+#D
 # Progress
 
 ✅ Completed Day 25 - Weight Initialization Techniques
