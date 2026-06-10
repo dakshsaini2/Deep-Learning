@@ -479,7 +479,7 @@ Because modern datasets are too large, making training slow and memory-intensive
 Batch Learning (Batch Gradient Descent) uses the entire training dataset to compute gradients before updating model weights. It provides stable and accurate optimization but is computationally expensive and rarely used for large-scale Deep Learning systems. Modern AI training primarily relies on Mini-Batch Gradient Descent due to its efficiency and scalability.
 
 ---
-
+#D
 # Progress
 
 ✅ Completed Day 27 - Batch Learning in Deep Learning
