@@ -547,7 +547,7 @@ Because moving averages are initially biased toward zero.
 Exponentially Weighted Moving Average (EWMA) is a technique that assigns greater importance to recent observations while gradually reducing the influence of older values. It is the mathematical foundation of Momentum, RMSProp, Adam, and AdamW optimizers, making it one of the most important concepts in modern Deep Learning optimization.
 
 ---
-
+#d
 # Progress
 
 ✅ Completed Day 29 - Exponentially Weighted Moving Average (EWMA)
