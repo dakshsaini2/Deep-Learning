@@ -587,7 +587,7 @@ Because it is simple, efficient, and performs extremely well in computer vision 
 SGD with Momentum improves standard Stochastic Gradient Descent by incorporating past gradient information using an Exponentially Weighted Moving Average (EWMA). This reduces oscillations, accelerates convergence, and leads to more stable optimization. It remains one of the most widely used optimizers in Computer Vision and Deep Learning.
 
 ---
-
+#d
 # Progress
 
 ✅ Completed Day 30 - SGD with Momentum in Deep Learning
