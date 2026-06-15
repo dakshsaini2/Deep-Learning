@@ -434,7 +434,7 @@ Overshooting and oscillations during optimization.
 Nesterov Accelerated Gradient (NAG) is an advanced version of Momentum that improves optimization by computing gradients at a predicted future position rather than the current position. This look-ahead mechanism reduces overshooting, improves convergence speed, and often leads to better optimization performance than standard Momentum.
 
 ---
-
+#d
 # Progress
 
 ✅ Completed Day 31 - Nesterov Accelerated Gradient (NAG)
