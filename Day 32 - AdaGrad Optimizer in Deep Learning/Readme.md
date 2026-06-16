@@ -597,7 +597,7 @@ RMSProp.
 AdaGrad (Adaptive Gradient Algorithm) was the first optimizer to introduce parameter-specific learning rates. By accumulating squared gradients, AdaGrad automatically adjusts learning rates for each parameter, making it highly effective for sparse datasets. However, its continuously shrinking learning rate eventually slows learning, leading to the development of RMSProp and later Adam.
 
 ---
-
+#d
 # Progress
 
 ✅ Completed Day 32 - AdaGrad Optimizer
