@@ -535,7 +535,7 @@ Adam.
 RMSProp (Root Mean Square Propagation) is an adaptive learning rate optimizer designed to overcome AdaGrad's continuously shrinking learning rates. By maintaining an exponentially weighted moving average of squared gradients, RMSProp provides stable and efficient optimization, making it one of the foundational optimizers that inspired Adam.
 
 ---
-
+#d
 # Progress
 
 ✅ Completed Day 33 - RMSProp Optimizer
