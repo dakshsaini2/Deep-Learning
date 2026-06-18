@@ -586,7 +586,7 @@ Learning Rate = 0.001
 Adam (Adaptive Moment Estimation) is one of the most widely used optimizers in Deep Learning. It combines the strengths of Momentum and RMSProp by maintaining exponentially weighted moving averages of both gradients and squared gradients. Adam provides fast convergence, adaptive learning rates, and strong performance across a wide variety of machine learning and deep learning tasks.
 
 ---
-
+#notes_from_chatGPT_O_d
 # Progress
 
 ✅ Completed Day 34 - Adam Optimizer
