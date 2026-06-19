@@ -673,7 +673,7 @@ LeNet, AlexNet, VGG16, ResNet, EfficientNet.
 ✅ Learned Real-World Applications
 
 ---
-
+#d
 # Mini Summary
 
 Convolutional Neural Networks (CNNs) are specialized deep learning models designed for image processing. By using convolution, pooling, and hierarchical feature extraction, CNNs can efficiently learn edges, shapes, and objects while using far fewer parameters than traditional ANNs. CNNs form the foundation of modern computer vision systems.
