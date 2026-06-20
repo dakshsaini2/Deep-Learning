@@ -600,7 +600,7 @@ No. They are simplified mathematical models inspired by biological vision.
 Convolutional Neural Networks were inspired by the human visual cortex, particularly the discovery of simple and complex cells by Hubel and Wiesel. Both CNNs and biological vision systems process information hierarchically, beginning with edges and progressing to shapes and object recognition. Although CNNs are simplified mathematical models, their design is deeply rooted in neuroscience.
 
 ---
-
+#1
 # Progress
 
 ✅ Completed Day 36 - CNN vs Visual Cortex
