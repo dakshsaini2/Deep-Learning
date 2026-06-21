@@ -650,7 +650,7 @@ Padding that keeps output size equal to input size.
 ✅ Studied Industry Best Practices
 
 ---
-
+#d
 # Mini Summary
 
 Padding and Stride are fundamental concepts in CNNs. Padding preserves image dimensions and border information by adding pixels around the image, while Stride controls how far a filter moves during convolution. Together, they determine feature map size, computational efficiency, and the amount of information retained during learning.
