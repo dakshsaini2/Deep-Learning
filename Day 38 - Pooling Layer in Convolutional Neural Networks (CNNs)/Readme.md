@@ -643,5 +643,5 @@ Pooling is a crucial CNN operation that reduces feature map dimensions while pre
 ---
 
 # Progress
-
+#d
 ✅ Completed Day 38 - Pooling Layer in CNNs
