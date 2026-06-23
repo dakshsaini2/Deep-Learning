@@ -742,7 +742,7 @@ To perform classification.
 ✅ Studied Complete CNN Pipeline
 
 ---
-
+#top
 # Mini Summary
 
 CNN architecture consists of convolution layers for feature extraction, activation functions for non-linearity, pooling layers for dimensionality reduction, flatten layers for converting feature maps into vectors, and fully connected layers for classification. This hierarchical structure allows CNNs to learn visual patterns efficiently and achieve state-of-the-art performance in computer vision tasks.
