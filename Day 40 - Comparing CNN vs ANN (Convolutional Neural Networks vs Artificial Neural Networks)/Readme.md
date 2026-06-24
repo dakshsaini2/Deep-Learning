@@ -669,7 +669,7 @@ CNN.
 ✅ Studied Industry Usage
 
 ---
-
+#t
 # Mini Summary
 
 ANNs are general-purpose neural networks best suited for structured and tabular data, while CNNs are specialized neural networks designed for image and spatial data. CNNs preserve spatial relationships, use parameter sharing, automatically extract features, and achieve significantly better performance on computer vision tasks compared to traditional ANNs.
