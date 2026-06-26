@@ -688,7 +688,7 @@ Using data augmentation, dropout, batch normalization, and early stopping.
 ✅ Studied Performance Improvement Techniques
 
 ---
-
+#a
 # Mini Summary
 
 Cat vs Dog Image Classification is a classic binary image classification problem solved using Convolutional Neural Networks (CNNs). The model learns visual features such as edges, textures, ears, and facial structures through convolutional layers, and then classifies images using a sigmoid output layer with Binary Cross Entropy loss. This project introduces the complete end-to-end deep learning workflow, from preprocessing and training to evaluation and prediction.
