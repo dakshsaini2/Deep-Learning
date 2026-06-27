@@ -628,7 +628,7 @@ Offline augmentation creates and stores transformed images before training, wher
 ✅ Understood Industry Best Practices
 
 ---
-
+#a
 # Mini Summary
 
 Data Augmentation is a powerful regularization technique that increases the diversity of the training dataset by applying realistic transformations such as rotation, flipping, zooming, cropping, and brightness adjustment. It improves model generalization, reduces overfitting, and is an essential component of modern computer vision pipelines. Advanced methods such as MixUp, CutMix, AutoAugment, and RandAugment further enhance the performance of state-of-the-art deep learning models.
