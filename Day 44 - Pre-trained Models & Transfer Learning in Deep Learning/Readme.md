@@ -666,7 +666,7 @@ ResNet, EfficientNet, MobileNet, Inception, Xception, DenseNet, and Vision Trans
 Pre-trained models are CNNs that have already learned rich visual representations from massive datasets such as ImageNet. Transfer Learning leverages these learned features for new tasks, reducing training time, improving accuracy, and requiring far less labeled data. Modern computer vision applications commonly use architectures like ResNet, EfficientNet, MobileNet, and Vision Transformers, making transfer learning an essential skill for deep learning practitioners.
 
 ---
-
+#r
 # Progress
 
 ✅ Completed Day 44 - Pre-trained Models & Transfer Learning
