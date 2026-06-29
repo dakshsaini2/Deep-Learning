@@ -775,7 +775,7 @@ It improves interpretability, debugging, and trust in deep learning models.
 ✅ Understood Explainable AI (XAI)
 
 ---
-
+#a
 # Mini Summary
 
 A CNN does not recognize objects directly. It begins by processing images as matrices of pixel values and gradually learns hierarchical visual features through convolution. Early layers detect edges and simple patterns, intermediate layers identify textures and object parts, and deeper layers recognize complete objects. Visualization techniques such as feature maps, filter visualization, saliency maps, and Grad-CAM allow us to understand what the network has learned, making CNNs more interpretable and trustworthy.
