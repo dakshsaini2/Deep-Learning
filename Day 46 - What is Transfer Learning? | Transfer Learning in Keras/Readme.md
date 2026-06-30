@@ -633,7 +633,7 @@ It reduces the number of parameters, lowers the risk of overfitting, and is more
 ✅ Learned Industry Best Practices
 
 ---
-
+#a
 # Mini Summary
 
 Transfer Learning is one of the most powerful techniques in modern Deep Learning. Instead of training a CNN from scratch, it leverages a model that has already learned rich visual features from a large dataset such as ImageNet. In Keras, pre-trained models like ResNet50, VGG16, MobileNetV2, and EfficientNet can be loaded with a few lines of code. By freezing the convolutional base and training a custom classifier—or fine-tuning the upper layers—you can build accurate computer vision models with significantly less data and training time.
