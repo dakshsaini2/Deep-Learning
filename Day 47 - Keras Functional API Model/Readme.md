@@ -730,7 +730,7 @@ Yes. This is one of its primary advantages over the Sequential API.
 The Keras Functional API is a powerful and flexible way to build Deep Learning models that go beyond simple sequential architectures. It allows developers to design neural networks as directed graphs, enabling multiple inputs, multiple outputs, shared layers, and skip connections. Modern architectures such as ResNet, Inception, DenseNet, and U-Net are all implemented using the Functional API, making it an essential tool for building production-ready AI systems.
 
 ---
-
+#a
 # Progress
 
 ✅ Completed Day 47 - Keras Functional API Model
