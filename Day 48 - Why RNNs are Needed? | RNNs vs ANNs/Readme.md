@@ -674,7 +674,7 @@ Transformers capture long-range dependencies more effectively, support parallel 
 ✅ Understood the Need for LSTM, GRU, and Transformers
 
 ---
-
+#at
 # Mini Summary
 
 Artificial Neural Networks (ANNs) work well for independent and structured data but fail to capture sequential dependencies because they lack memory. Recurrent Neural Networks (RNNs) solve this limitation by introducing a hidden state that stores information from previous inputs, enabling the network to process sequences such as text, speech, and time-series data. Although Transformers have become the dominant architecture for many sequence modeling tasks, understanding RNNs is essential because they introduced the foundational concept of learning from sequential context.
